@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Which_Figure_Is</string>
+    <string name="points">Score: %d</string>
+    <string name="SquareChoice">Choose square image!</string>
+    <string name="CircleChoice">Choose Circle Image!</string>
+    <string name="RectangleChoice">Choose rectangle image!</string>
+    <string name="triangleChoice">Choose triangle image!</string>
+</resources>
